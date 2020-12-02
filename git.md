@@ -18,6 +18,6 @@ git branch -d branch-name
 
 git branch --list 
 
-git push origin --delete branch-name  
+git push origin --delete branch-name   
 
- 
+ git push --set-upstream origin master 
